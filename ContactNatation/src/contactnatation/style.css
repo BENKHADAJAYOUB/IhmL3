@@ -1,0 +1,13 @@
+
+#esp {
+    -fx-background-color:#0D79D6;
+    -fx-background-radius:30;
+}
+
+#sins{
+   -fx-background-color: #0D79D6;
+    -fx-background-radius:30;
+}
+.btn-sins:hover{
+    -fx-base: orange; 
+}
